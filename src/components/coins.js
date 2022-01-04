@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux';
 import { MdArrowBackIos } from 'react-icons/md';
 import { FiSettings } from 'react-icons/fi';
 import { AiFillAudio } from 'react-icons/ai';
-import styles from '../styles/sport.module.css';
+import styles from '../styles/coin.module.css';
 
 const CoinsData = () => {
   const coinsdat = useSelector((state) => state.coinReducer);

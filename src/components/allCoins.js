@@ -6,7 +6,7 @@ import { AiFillAudio } from 'react-icons/ai';
 import { MdArrowBackIos } from 'react-icons/md';
 import { fetchCoins, displayCoins } from '../redux/coinsRe/coins';
 
-import styles from '../styles/allSports.module.css';
+import styles from '../styles/allCoins.module.css';
 
 const AllCoinsData = () => {
   const dispatch = useDispatch();
