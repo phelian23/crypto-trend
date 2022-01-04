@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Application Page url
 
-[Live Demo](https://phelian23.github.io/react-redux-capstone)
+[Live Demo](https://phelian23.github.io/crypto-trend)
 
 ## Presentation Video
 
