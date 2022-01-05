@@ -1,25 +1,16 @@
-.main {
+.backg {
+  background: darkblue;
+  height: 100vh;
+}
+
+.name {
   width: 100%;
   text-align: end;
-  padding: 14% 10%;
+  padding: 9% 10%;
   background: url('../images/PngItem_5207199.png') no-repeat center;
   background-color: darkblue;
   opacity: 0.8;
   color: #fff;
-}
-
-.listItems {
-  display: flex;
-  padding: 5%;
-  justify-content: space-between;
-  align-items: center;
-  background: #020269;
-  opacity: 0.9;
-  color: white;
-}
-
-.list li:nth-child(odd) {
-  background: #020269;
 }
 
 .header {
@@ -38,13 +29,12 @@
   color: #fff;
 }
 
-.backg {
-  background: darkblue;
-  height: 100vh;
-}
-
-.search {
-  margin: 2% auto;
+.backg p {
+  color: #fff;
   width: 95%;
-  padding: 3%;
+  margin: 2% auto;
+  padding: 10%;
+  border: 0;
+  border-radius: 5px;
+  background: rgb(7, 136, 179);
 }
