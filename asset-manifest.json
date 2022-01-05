@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/crypto-trend/static/css/main.a5d2b1a4.css",
-    "main.js": "/crypto-trend/static/js/main.1a37ca24.js",
+    "main.js": "/crypto-trend/static/js/main.0e1ba1c9.js",
     "static/js/787.8732d6f3.chunk.js": "/crypto-trend/static/js/787.8732d6f3.chunk.js",
     "static/media/Cryptocurrency_Gold.png": "/crypto-trend/static/media/Cryptocurrency_Gold.69cbe6653c2d58bdcaf4.png",
     "static/media/PngItem_5207199.png": "/crypto-trend/static/media/PngItem_5207199.40b6f214345b9a9e0f00.png",
     "index.html": "/crypto-trend/index.html",
     "main.a5d2b1a4.css.map": "/crypto-trend/static/css/main.a5d2b1a4.css.map",
-    "main.1a37ca24.js.map": "/crypto-trend/static/js/main.1a37ca24.js.map",
+    "main.0e1ba1c9.js.map": "/crypto-trend/static/js/main.0e1ba1c9.js.map",
     "787.8732d6f3.chunk.js.map": "/crypto-trend/static/js/787.8732d6f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5d2b1a4.css",
-    "static/js/main.1a37ca24.js"
+    "static/js/main.0e1ba1c9.js"
   ]
 }
